@@ -20,6 +20,7 @@ function guessinggame {
 			else
 				echo "This is less than the no.of files. Please try again."
 			fi
+			
 		else	
 			echo "This is equal to no.of files. Great!!!"
 			echo "Program ended."
